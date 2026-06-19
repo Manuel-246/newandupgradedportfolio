@@ -1,0 +1,76 @@
+MANUEL BINOY
+Aspiring Data Scientist | Full-Stack Developer | B.Tech CSD Student
+Email: manuel.binoy@example.com
+GitHub: https://github.com/Manuel-246
+LinkedIn: https://www.linkedin.com/in/manuel-binoy-01972a33a
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Dedicated second-year B.Tech Computer Science and Design student with a strong passion
+for software engineering, artificial intelligence, and data science. Enthusiastic about
+building responsive, user-friendly web applications, analyzing databases, and solving complex
+problems. Actively seeking opportunities to apply technical skills in real-world scenarios
+and working toward a career in Data Science.
+
+================================================================================
+EDUCATION
+================================================================================
+B.Tech in Computer Science and Design (CSD) | 2024 - Present
+Focus: Core Computing principles combined with Creative Digital Design,
+Data Structures & Algorithms, Database Management Systems, and Software Development.
+
+Secondary Education
+Concentration: Science & Mathematics
+Developed robust analytical foundations and computational thinking.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+- Programming Languages: Python, C Programming, Java, JavaScript
+- Frontend Technologies: HTML5, CSS3, React.js
+- Backend Technologies: Node.js, RESTful APIs
+- Databases & Systems: MongoDB, Database Management Systems (DBMS)
+- Core Concepts: Data Structures & Algorithms (DSA), Responsive Design, UI/UX
+- Tools & Methodologies: Git & GitHub, VS Code, AI Prompt Engineering
+
+================================================================================
+SELECTED PROJECTS
+================================================================================
+1. Notes Manager (Full-Stack CRUD)
+   - Description: Full-stack notes administration software with MongoDB, Node/Express, and React.
+   - GitHub: https://github.com/Manuel-246/notes_manager
+   - Live Demo: https://notes-manager-snowy.vercel.app/
+
+2. TaskHub (Task Management Dashboard)
+   - Description: Workload management interface for scheduling and organizing tasks.
+   - GitHub: https://github.com/Manuel-246/taskhub
+   - Live Demo: https://task-manager-fixed-dashboard.vercel.app/
+
+3. Expense Tracker (Financial Organizer)
+   - Description: React application to input, manage, and visualize incomes and expenditures.
+   - GitHub: https://github.com/Manuel-246/expensetracker
+   - Live Demo: https://manuel-246.github.io/expensetracker/
+
+4. Weather App (Real-time Conditions)
+   - Description: Weather forecasting dashboard calling location APIs to display local climate.
+   - GitHub: https://github.com/Manuel-246/manuu_weather
+   - Live Demo: https://manuel-246.github.io/manuu_weather/
+
+5. Custom Search Engine UI
+   - Description: Sleek, responsive layout mimicking search engine interfaces.
+   - GitHub: https://github.com/Manuel-246/supersimplesearch_engine
+   - Live Demo: https://manuel-246.github.io/supersimplesearch_engine/
+
+6. Film Review Website (cineManuu)
+   - Description: Cinema catalog for movies, reviews, and featured posts.
+   - GitHub: https://github.com/Manuel-246/cineManuu
+   - Live Demo: https://manuel-246.github.io/cineManuu/
+
+================================================================================
+INTERESTS & ACTIVITIES
+================================================================================
+- Data Mining & Machine Learning Architectures
+- UI/UX & Responsive Web Layout Design
+- Exploring Artificial Intelligence tools and Prompt Engineering
+- Open Source Contribution
